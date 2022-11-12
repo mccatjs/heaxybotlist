@@ -1,0 +1,12 @@
+{
+  "token": "OTE3NDQzMjAzNDA0MjgzOTU0.G3pkst.DR4iZsD5BZp9k-3h7tO7a1y8Xg--91oVLgfGPA",
+  "prefix" : "+",
+  "owner" : ["","",""],
+  "clientid" : "917443203404283954",
+  "clientsecret" : "VH_FxfxM2DHibt0FoaOR6jigBO9N2zEm",
+  "clientcallback" : "https://internal-beryl-mosquito.glitch.me/callback",
+  "mongoURL" : "MongoDB URL",
+  "serverID": "SERVER ID",
+  "footer": "GLOBAL FOOTER",
+  "tags": ["Moderation", "Fun", "Minecraft","Economy","Guard","NSFW","Anime","Invite","Music","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
+}
